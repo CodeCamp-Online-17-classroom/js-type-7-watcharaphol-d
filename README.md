@@ -4,7 +4,7 @@
 
 ```JavaScript
 console.log('' + 1 + 0);
-console.log('' - 1 + 0)); 
+console.log('' - 1 + 0); 
 console.log(true + false);
 console.log(6 / '3');
 console.log('2' * '3');
@@ -15,3 +15,7 @@ console.log(2 + 4 + 'px');
 console.log(null + 1);
 console.log(undefined + 1);
 ```
+
+### Homework Finished 23/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
